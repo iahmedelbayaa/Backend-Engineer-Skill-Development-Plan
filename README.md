@@ -136,5 +136,3 @@ This plan aims to elevate your backend engineering skills from a solid junior/mi
 - Build a mini project applying system design
 - Share code reviews or do mock interviews
 - Adjust weak areas based on weekly feedback
-
----
